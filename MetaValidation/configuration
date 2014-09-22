@@ -1,0 +1,20 @@
+#表名与字段名用TAB键隔开,subjectId在gameId之前,默认采用subjectId和gameId
+<begin1>
+gdas_idx	subjectId	gameId
+gdas_dw	subjectId	dbId
+gdas_mobile_game
+gdas_hbase	subject_id	bt_id
+gdas_app
+gdas_report
+gdas_app_indicator
+gdas_app_summary
+gdas_report
+
+<end1>
+#需要忽略的游戏名，用TAb键隔开,每行可有两个或更多个游戏英文名
+<begin2>
+g2	xyq
+xy2	dh2f
+
+
+<end2>

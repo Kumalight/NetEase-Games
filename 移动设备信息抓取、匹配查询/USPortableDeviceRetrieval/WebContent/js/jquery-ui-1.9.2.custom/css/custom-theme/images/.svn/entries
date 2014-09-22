@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn-ux.gz.netease.com/svn"
+   name=""
+   revision="7233"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   url="https://svn-ux.gz.netease.com/svn/US/%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0/%E7%BB%9F%E4%B8%80%E5%AD%98%E5%82%A8%E5%B9%B3%E5%8F%B0/code/branch/yangwenfeng/gdas_build_20140808/WebContent/js/jquery-ui-1.9.2.custom/css/custom-theme/images"
+   uuid="7f45c3a8-478f-45a5-9a51-4ba4e9d1a678"
+   committed-rev="159"
+   kind="dir"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="ui-bg_flat_0_aaaaaa_40x100.png"
+   checksum="3f4936bf71c03890467c0bf4d01793b3"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.273000Z"/>
+<entry
+   name="ui-bg_flat_100_f5f8f9_40x100.png"
+   checksum="9bda5c0017efd8f657514f70b479c340"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.224000Z"/>
+<entry
+   name="ui-bg_flat_100_fcfdfd_40x100.png"
+   checksum="c411bae8f437bc5ef82501486517f4f9"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.249000Z"/>
+<entry
+   name="ui-bg_flat_55_2674A7_40x100.png"
+   checksum="889015cb7b704a609536432fa23bb886"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.263000Z"/>
+<entry
+   name="ui-bg_flat_55_5c9ccc_40x100.png"
+   checksum="489068465dea6e0fb7138ab86285d85c"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.342000Z"/>
+<entry
+   name="ui-bg_flat_55_fbec88_40x100.png"
+   checksum="7696d78d16e47fdab16e7a31bf78080f"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.231000Z"/>
+<entry
+   name="ui-bg_flat_75_2674A7_40x100.png"
+   checksum="b36e1a5cd600a074002c0f30e5fcf77b"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.278000Z"/>
+<entry
+   name="ui-bg_flat_75_d0e5f5_40x100.png"
+   checksum="547072f8c3c796e23d17ad4bae9e65a9"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.258000Z"/>
+<entry
+   name="ui-bg_flat_85_2674A7_40x100.png"
+   checksum="6cb255f74f8478cf3a797653dad2db0d"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.299000Z"/>
+<entry
+   name="ui-bg_flat_85_dfeffc_40x100.png"
+   checksum="3541e9666c4916b96d0a7377b5d4a6b1"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.238000Z"/>
+<entry
+   name="ui-bg_flat_95_fef1ec_40x100.png"
+   checksum="c774488bc717677099f1e6215a969d81"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.294000Z"/>
+<entry
+   name="ui-bg_glass_55_5c9ccc_1x400.png"
+   checksum="3b6d4ec7e1dd0e592d9c7ec2d58fbb31"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.347000Z"/>
+<entry
+   name="ui-bg_glass_75_d0e5f5_1x400.png"
+   checksum="ef1cc4731e8db57d3f4e92d1505c6a70"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.289000Z"/>
+<entry
+   name="ui-bg_glass_85_dfeffc_1x400.png"
+   checksum="fbceb16236226089a51a42cd3ca759c6"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.244000Z"/>
+<entry
+   name="ui-bg_glass_95_fef1ec_1x400.png"
+   checksum="4011a0e9203ec9dd6c21647306c927be"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.320000Z"/>
+<entry
+   name="ui-bg_inset-hard_100_f5f8f9_1x100.png"
+   checksum="972429b9583a12b0465c1daafb6f4cb2"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.336000Z"/>
+<entry
+   name="ui-icons_0156f9_256x240.png"
+   checksum="45afe21830020eb905360184d1f893d1"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.284000Z"/>
+<entry
+   name="ui-icons_217bc0_256x240.png"
+   checksum="7a34afda44db5cc6a62454983ccba939"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.325000Z"/>
+<entry
+   name="ui-icons_2e83ff_256x240.png"
+   checksum="764c37efbf6d7ffc176b466fadc6f2ca"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.315000Z"/>
+<entry
+   name="ui-icons_469bdd_256x240.png"
+   checksum="36a2a3ba0579d3a4b05836c75972e42a"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.310000Z"/>
+<entry
+   name="ui-icons_6da8d5_256x240.png"
+   checksum="1075495a8be428154d3cfc5fdb766562"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.304000Z"/>
+<entry
+   name="ui-icons_cd0a0a_256x240.png"
+   checksum="5c78585b80fbf4342d21674a04e89c8b"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.268000Z"/>
+<entry
+   name="ui-icons_d8e7f3_256x240.png"
+   checksum="cb043673f76ed1e7b96b11eda68a6ad6"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.330000Z"/>
+<entry
+   name="ui-icons_f9bd01_256x240.png"
+   checksum="52a0b12af439af310acda7a50e3f40c9"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   text-time="2013-11-27T07:51:00.779000Z"
+   committed-rev="159"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"
+   prop-time="2014-08-11T03:02:11.254000Z"/>
+</wc-entries>

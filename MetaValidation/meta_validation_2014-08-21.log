@@ -1,0 +1,406 @@
+dw table dataid Type Validation Start...
+Type | DbName | tableName
+varchar(20) | us_gdas_g16 | dw_g16_prepaid_day
+varchar(20) | us_gdas_g2 | dw_g2_gameplay_day
+varchar(20) | us_gdas_g2 | dw_g2_itembuy_day
+varchar(20) | us_gdas_g2 | dw_g2_itemprops_day
+varchar(20) | us_gdas_g2 | dw_g2_level_yuanbao_money_stock_day
+varchar(128) | us_gdas_g2 | dw_g2_newaccount_day
+varchar(20) | us_gdas_g2 | dw_g2_prepaid_day
+varchar(20) | us_gdas_g2 | dw_g2_propstrack_day
+varchar(20) | us_gdas_g2 | dw_g2_propstrack_test_day
+varchar(20) | us_gdas_g2 | dw_g2_uid_lastlogoutdis_day
+varchar(20) | us_gdas_g2 | dw_g2_vip_prepaid_day
+varchar(20) | us_gdas_g2 | dw_g2_vip_yuanbao_money_stock_day
+varchar(20) | us_gdas_g2 | dw_g2_yuanbaoio_day
+varchar(255) | us_gdas_g28 | dw_g28_itembuy_day
+varchar(255) | us_gdas_g29 | dw_g29_itembuy_day
+varchar(20) | us_gdas_g3 | dw_g3_prepaid_day
+varchar(20) | us_gdas_g3 | dw_g3_uid_lastlogoutdis_day
+varchar(20) | us_gdas_g3 | dw_g3_uid_newroleonline_day
+varchar(20) | us_gdas_g3 | dw_g3_uid_onlinedis_day
+varchar(20) | us_gdas_g4 | dw_g4_first_pass_day
+varchar(255) | us_gdas_g4 | dw_g4_itembuy_day
+varchar(20) | us_gdas_g4 | dw_g4_level_yuanbao_money_stock_day
+varchar(20) | us_gdas_g4 | dw_g4_play_join_day
+varchar(20) | us_gdas_h1 | dw_h1_buildingupgrade_day
+varchar(20) | us_gdas_h1 | dw_h1_firsttimepasspve_day
+varchar(20) | us_gdas_h1 | dw_h1_itembuy_day
+varchar(20) | us_gdas_h1 | dw_h1_loginhour_day
+varchar(20) | us_gdas_h1 | dw_h1_prepaid_day
+varchar(20) | us_gdas_h1 | dw_h1_yuanbaoio_day
+varchar(20) | us_gdas_h2 | dw_h2_battle_day
+varchar(20) | us_gdas_h2 | dw_h2_battletimes_day
+varchar(50) | us_gdas_h2 | dw_h2_careerretention_day
+varchar(20) | us_gdas_h2 | dw_h2_combat_day
+varchar(20) | us_gdas_h2 | dw_h2_defendbattle_day
+varchar(20) | us_gdas_h2 | dw_h2_gameplay_day
+varchar(20) | us_gdas_h2 | dw_h2_gameplay_detail_all
+varchar(20) | us_gdas_h2 | dw_h2_gameratio_day
+varchar(20) | us_gdas_h2 | dw_h2_gathersoul_day
+varchar(20) | us_gdas_h2 | dw_h2_itembuy_day
+varchar(20) | us_gdas_h2 | dw_h2_itemmerchantbuy_day
+varchar(20) | us_gdas_h2 | dw_h2_lianhua_day
+varchar(20) | us_gdas_h2 | dw_h2_loginhour_day
+varchar(20) | us_gdas_h2 | dw_h2_operationsoul_day
+varchar(20) | us_gdas_h2 | dw_h2_prepaid_day
+varchar(20) | us_gdas_h2 | dw_h2_resourceexploit_day
+varchar(20) | us_gdas_h2 | dw_h2_resourceupgrade_day
+varchar(20) | us_gdas_h2 | dw_h2_ronglian_day
+varchar(20) | us_gdas_h2 | dw_h2_smithy_day
+varchar(20) | us_gdas_h2 | dw_h2_task_all
+varchar(20) | us_gdas_h2 | dw_h2_task_day
+varchar(20) | us_gdas_h2 | dw_h2_userinfo_day
+varchar(20) | us_gdas_h2 | dw_h2_yuanbaoio_day
+varchar(10) | us_gdas_lj | dw_x5_cluster_play_join_week
+varchar(255) | us_gdas_lj | dw_x5_require_10005_day
+varchar(255) | us_gdas_lj | dw_x5_require_10012_day
+varchar(128) | us_gdas_mag | dw_mag_prepaid_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_accountretention_day
+varchar(255) | us_gdas_ninja2 | dw_ninja2_barrier_result_day
+varchar(255) | us_gdas_ninja2 | dw_ninja2_gametask_day
+varchar(255) | us_gdas_ninja2 | dw_ninja2_itembuy_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_newaccount_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_ninja_sword_dragon_dis_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_operate_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_prepaid_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_prepaid_item_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_roleretention_day
+varchar(50) | us_gdas_tx3 | dw_tx3_hbActivated_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbCount_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbDifAttr_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbEvolution_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbItemActiveRatio_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbItemRatio_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbSkill_week
+varchar(50) | us_gdas_tx3 | dw_tx3_holybeast_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterAbsorbCount_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterAbsorb_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterAp_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterEnerylv_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterEvolution_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterGeneration_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterShift_day
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterSkill_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterUnlock_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsteractivated_week
+varchar(20) | us_gdas_wh | dw_wh_gdas_economic_briefing_main_week
+varchar(50) | us_gdas_wh | dw_wh_gdas_gang_aptitude_io
+varchar(100) | us_gdas_wh | dw_wh_gdas_host_merging_day
+varchar(100) | us_gdas_wh | dw_wh_gdas_monitor_day
+varchar(100) | us_gdas_wh | dw_wh_gdas_monitor_day_copy
+varchar(50) | us_gdas_wh | dw_wh_gdas_pet_join
+varchar(50) | us_gdas_wh | dw_wh_gdas_pet_risk_freq
+varchar(20) | us_gdas_wscs | dw_wscs_itembuy_day
+varchar(20) | us_gdas_wscs | dw_wscs_prepaid_day
+varchar(128) | us_gdas_wscs | dw_wscs_prepaid_item_day
+varchar(128) | us_gdas_xyq | dw_xyq_label
+varchar(20) | us_gdas_yx | dw_yx_dungeon_day
+varchar(20) | us_gdas_yx | dw_yx_dungeonentercombat_day
+varchar(20) | us_gdas_yx | dw_yx_dungeonprod_day
+varchar(20) | us_gdas_yx | dw_yx_itembuy_day
+varchar(20) | us_gdas_yx | dw_yx_prepaid_day
+varchar(20) | us_gdas_yx | dw_yx_uid_dungeonEnterCombat_day
+varchar(20) | us_gdas_yx | dw_yx_uid_dungeonProd_day
+varchar(20) | us_gdas_yx | dw_yx_uid_dungeon_day
+varchar(20) | us_gdas_yx | dw_yx_uid_exp_day
+varchar(20) | us_gdas_yx | dw_yx_uid_item_day
+varchar(20) | us_gdas_yx | dw_yx_uid_money_day
+varchar(20) | us_gdas_yx | dw_yx_uid_pay_day
+varchar(20) | us_gdas_yx | dw_yx_uid_yuanbao_day
+varchar(20) | us_gdas_yx | dw_yx_yuanbaoio_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_active_idle_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bindcashcirculate_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bindcashget_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bindcashretrive_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bossfight_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bsnskill_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_buyxiuwei_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_cashcirculate_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_cashget_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_cashretrive_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_coincirculate_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_coinget_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_coinretrive_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyactivity_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyclear_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyclose_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyenter_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyopen_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copytime_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_dps_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_dps_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_itemget_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_itemtaskretrive_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_logout_detail_all
+varchar(50) | us_gdas_zdcq | dw_zdcq_lost_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_mallpurchaseitem_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_monsterexp_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_paobiao_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_pickbindcash_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_pickcash_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_pickitem_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_rewardbindcash_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_rewardcash_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_rewardexp_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_rewarditem_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_seal_extend_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_seal_extend_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_shie_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_skill_extend_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_skill_extend_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_spactivity_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_spell_extend_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_spell_extend_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_task_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_task_time_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_taskactivity_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_taskreward_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_xiuwei_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_xiuwei_day
+varchar(20) | us_hbase_meta | dw_demo_itembuy_day
+varchar(20) | us_hbase_meta | dw_demo_prepaid_day
+varchar(20) | us_hbase_meta | dw_demo_uid_dungeonProd_day
+varchar(20) | us_hbase_meta | dw_demo_uid_dungeon_day
+varchar(20) | us_hbase_meta | dw_demo_uid_exp_day
+varchar(20) | us_hbase_meta | dw_demo_uid_item_day
+varchar(20) | us_hbase_meta | dw_demo_uid_lastlogoutdis_day
+varchar(20) | us_hbase_meta | dw_demo_uid_money_day
+varchar(20) | us_hbase_meta | dw_demo_uid_pay_day
+varchar(20) | us_hbase_meta | dw_demo_uid_yuanbao_day
+varchar(20) | us_hbase_meta | dw_demo_yuanbaoio_day
+dw table dataid Type Validation End...
+
+MetaValidation END
+duplicate_tablename Start...
+TABLE_NAME|DB_NAME|DB_NAME
+app_f_talks_day | us_gdas_f | test
+gdas_processed_logs | us_gdas_f | test
+gdas_user | us_gdas_f | test
+dw_pg_world_boss_day | us_gdas_pg | us_gdas_lj
+gdas_log4j_analysis | us_gdas_tx3 | us_gdas_f
+gdas_log4j | us_gdas_wh | test
+dim_xyq_school | us_gdas_xyq | us_gdas_wh
+dim_xy2_race | us_gdas_zh | us_gdas_xy2
+dh2_new_xianyu_item_count_day | us_hbase_dw | us_gdas_xy2
+dw_tx3_itemStockNoName_day_test | us_hbase_meta | us_gdas_tx3
+dw_zh_login_day | us_hbase_meta | us_gdas_zh
+gdas_auth | us_hbase_meta | us_gdas_f
+gdas_game | us_hbase_meta | us_gdas_f
+gdas_log4j | us_hbase_meta | test
+gdas_log4j_analysis | us_hbase_meta | us_gdas_f
+gdas_user | us_hbase_meta | test
+duplicate_tablename End...
+
+subjectid_consistent_with_gameid Start...
+find  0 NonConsistents in table: gdas_idx
+subjectId | gameId | TableName
+find  0 NonConsistents in table: gdas_dw
+subjectId | gameId | TableName
+find  0 NonConsistents in table: gdas_mobile_game
+subjectId | gameId | TableName
+find  0 NonConsistents in table: gdas_hbase
+subjectId | gameId | TableName
+find  0 NonConsistents in table: gdas_app
+subjectId | gameId | TableName
+find  0 NonConsistents in table: gdas_report
+subjectId | gameId | TableName
+find  0 NonConsistents in table: gdas_app_indicator
+subjectId | gameId | TableName
+find  0 NonConsistents in table: gdas_app_summary
+subjectId | gameId | TableName
+find  0 NonConsistents in table: gdas_report
+subjectId | gameId | TableName
+subjectid_consistent_with_gameid End...
+
+dw table dataid Type Validation Start...
+Type | DbName | tableName
+varchar(20) | us_gdas_g16 | dw_g16_prepaid_day
+varchar(20) | us_gdas_g2 | dw_g2_gameplay_day
+varchar(20) | us_gdas_g2 | dw_g2_itembuy_day
+varchar(20) | us_gdas_g2 | dw_g2_itemprops_day
+varchar(20) | us_gdas_g2 | dw_g2_level_yuanbao_money_stock_day
+varchar(128) | us_gdas_g2 | dw_g2_newaccount_day
+varchar(20) | us_gdas_g2 | dw_g2_prepaid_day
+varchar(20) | us_gdas_g2 | dw_g2_propstrack_day
+varchar(20) | us_gdas_g2 | dw_g2_propstrack_test_day
+varchar(20) | us_gdas_g2 | dw_g2_uid_lastlogoutdis_day
+varchar(20) | us_gdas_g2 | dw_g2_vip_prepaid_day
+varchar(20) | us_gdas_g2 | dw_g2_vip_yuanbao_money_stock_day
+varchar(20) | us_gdas_g2 | dw_g2_yuanbaoio_day
+varchar(255) | us_gdas_g28 | dw_g28_itembuy_day
+varchar(255) | us_gdas_g29 | dw_g29_itembuy_day
+varchar(20) | us_gdas_g3 | dw_g3_prepaid_day
+varchar(20) | us_gdas_g3 | dw_g3_uid_lastlogoutdis_day
+varchar(20) | us_gdas_g3 | dw_g3_uid_newroleonline_day
+varchar(20) | us_gdas_g3 | dw_g3_uid_onlinedis_day
+varchar(20) | us_gdas_g4 | dw_g4_first_pass_day
+varchar(255) | us_gdas_g4 | dw_g4_itembuy_day
+varchar(20) | us_gdas_g4 | dw_g4_level_yuanbao_money_stock_day
+varchar(20) | us_gdas_g4 | dw_g4_play_join_day
+varchar(20) | us_gdas_h1 | dw_h1_buildingupgrade_day
+varchar(20) | us_gdas_h1 | dw_h1_firsttimepasspve_day
+varchar(20) | us_gdas_h1 | dw_h1_itembuy_day
+varchar(20) | us_gdas_h1 | dw_h1_loginhour_day
+varchar(20) | us_gdas_h1 | dw_h1_prepaid_day
+varchar(20) | us_gdas_h1 | dw_h1_yuanbaoio_day
+varchar(20) | us_gdas_h2 | dw_h2_battle_day
+varchar(20) | us_gdas_h2 | dw_h2_battletimes_day
+varchar(50) | us_gdas_h2 | dw_h2_careerretention_day
+varchar(20) | us_gdas_h2 | dw_h2_combat_day
+varchar(20) | us_gdas_h2 | dw_h2_defendbattle_day
+varchar(20) | us_gdas_h2 | dw_h2_gameplay_day
+varchar(20) | us_gdas_h2 | dw_h2_gameplay_detail_all
+varchar(20) | us_gdas_h2 | dw_h2_gameratio_day
+varchar(20) | us_gdas_h2 | dw_h2_gathersoul_day
+varchar(20) | us_gdas_h2 | dw_h2_itembuy_day
+varchar(20) | us_gdas_h2 | dw_h2_itemmerchantbuy_day
+varchar(20) | us_gdas_h2 | dw_h2_lianhua_day
+varchar(20) | us_gdas_h2 | dw_h2_loginhour_day
+varchar(20) | us_gdas_h2 | dw_h2_operationsoul_day
+varchar(20) | us_gdas_h2 | dw_h2_prepaid_day
+varchar(20) | us_gdas_h2 | dw_h2_resourceexploit_day
+varchar(20) | us_gdas_h2 | dw_h2_resourceupgrade_day
+varchar(20) | us_gdas_h2 | dw_h2_ronglian_day
+varchar(20) | us_gdas_h2 | dw_h2_smithy_day
+varchar(20) | us_gdas_h2 | dw_h2_task_all
+varchar(20) | us_gdas_h2 | dw_h2_task_day
+varchar(20) | us_gdas_h2 | dw_h2_userinfo_day
+varchar(20) | us_gdas_h2 | dw_h2_yuanbaoio_day
+varchar(10) | us_gdas_lj | dw_x5_cluster_play_join_week
+varchar(255) | us_gdas_lj | dw_x5_require_10005_day
+varchar(255) | us_gdas_lj | dw_x5_require_10012_day
+varchar(128) | us_gdas_mag | dw_mag_prepaid_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_accountretention_day
+varchar(255) | us_gdas_ninja2 | dw_ninja2_barrier_result_day
+varchar(255) | us_gdas_ninja2 | dw_ninja2_gametask_day
+varchar(255) | us_gdas_ninja2 | dw_ninja2_itembuy_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_newaccount_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_ninja_sword_dragon_dis_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_operate_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_prepaid_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_prepaid_item_day
+varchar(128) | us_gdas_ninja2 | dw_ninja2_roleretention_day
+varchar(50) | us_gdas_tx3 | dw_tx3_hbActivated_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbCount_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbDifAttr_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbEvolution_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbItemActiveRatio_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbItemRatio_week
+varchar(50) | us_gdas_tx3 | dw_tx3_hbSkill_week
+varchar(50) | us_gdas_tx3 | dw_tx3_holybeast_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterAbsorbCount_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterAbsorb_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterAp_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterEnerylv_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterEvolution_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterGeneration_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterShift_day
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterSkill_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsterUnlock_week
+varchar(50) | us_gdas_tx3 | dw_tx3_monsteractivated_week
+varchar(20) | us_gdas_wh | dw_wh_gdas_economic_briefing_main_week
+varchar(50) | us_gdas_wh | dw_wh_gdas_gang_aptitude_io
+varchar(100) | us_gdas_wh | dw_wh_gdas_host_merging_day
+varchar(100) | us_gdas_wh | dw_wh_gdas_monitor_day
+varchar(100) | us_gdas_wh | dw_wh_gdas_monitor_day_copy
+varchar(50) | us_gdas_wh | dw_wh_gdas_pet_join
+varchar(50) | us_gdas_wh | dw_wh_gdas_pet_risk_freq
+varchar(20) | us_gdas_wscs | dw_wscs_itembuy_day
+varchar(20) | us_gdas_wscs | dw_wscs_prepaid_day
+varchar(128) | us_gdas_wscs | dw_wscs_prepaid_item_day
+varchar(128) | us_gdas_xyq | dw_xyq_label
+varchar(20) | us_gdas_yx | dw_yx_dungeon_day
+varchar(20) | us_gdas_yx | dw_yx_dungeonentercombat_day
+varchar(20) | us_gdas_yx | dw_yx_dungeonprod_day
+varchar(20) | us_gdas_yx | dw_yx_itembuy_day
+varchar(20) | us_gdas_yx | dw_yx_prepaid_day
+varchar(20) | us_gdas_yx | dw_yx_uid_dungeonEnterCombat_day
+varchar(20) | us_gdas_yx | dw_yx_uid_dungeonProd_day
+varchar(20) | us_gdas_yx | dw_yx_uid_dungeon_day
+varchar(20) | us_gdas_yx | dw_yx_uid_exp_day
+varchar(20) | us_gdas_yx | dw_yx_uid_item_day
+varchar(20) | us_gdas_yx | dw_yx_uid_money_day
+varchar(20) | us_gdas_yx | dw_yx_uid_pay_day
+varchar(20) | us_gdas_yx | dw_yx_uid_yuanbao_day
+varchar(20) | us_gdas_yx | dw_yx_yuanbaoio_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_active_idle_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bindcashcirculate_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bindcashget_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bindcashretrive_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bossfight_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_bsnskill_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_buyxiuwei_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_cashcirculate_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_cashget_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_cashretrive_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_coincirculate_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_coinget_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_coinretrive_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyactivity_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyclear_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyclose_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyenter_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copyopen_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_copytime_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_dps_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_dps_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_itemget_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_itemtaskretrive_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_logout_detail_all
+varchar(50) | us_gdas_zdcq | dw_zdcq_lost_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_mallpurchaseitem_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_monsterexp_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_paobiao_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_pickbindcash_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_pickcash_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_pickitem_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_rewardbindcash_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_rewardcash_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_rewardexp_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_rewarditem_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_seal_extend_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_seal_extend_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_shie_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_skill_extend_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_skill_extend_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_spactivity_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_spell_extend_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_spell_extend_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_task_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_task_time_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_taskactivity_trans_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_taskreward_day
+varchar(255) | us_gdas_zdcq | dw_zdcq_xiuwei_all
+varchar(255) | us_gdas_zdcq | dw_zdcq_xiuwei_day
+varchar(20) | us_hbase_meta | dw_demo_itembuy_day
+varchar(20) | us_hbase_meta | dw_demo_prepaid_day
+varchar(20) | us_hbase_meta | dw_demo_uid_dungeonProd_day
+varchar(20) | us_hbase_meta | dw_demo_uid_dungeon_day
+varchar(20) | us_hbase_meta | dw_demo_uid_exp_day
+varchar(20) | us_hbase_meta | dw_demo_uid_item_day
+varchar(20) | us_hbase_meta | dw_demo_uid_lastlogoutdis_day
+varchar(20) | us_hbase_meta | dw_demo_uid_money_day
+varchar(20) | us_hbase_meta | dw_demo_uid_pay_day
+varchar(20) | us_hbase_meta | dw_demo_uid_yuanbao_day
+varchar(20) | us_hbase_meta | dw_demo_yuanbaoio_day
+dw table dataid Type Validation End...
+
+auth_exception_detection Start...
+pid | usernameCN | department | gameNum | gameNameEN | gameNameCN
+36 | 丁广明 | 运营事业部 | 2 | h2 f | 代号F 天下HD
+81 | 冯川 | 大话西游工作室 | 3 | g16 xy2 | 大话2免费版 大话2口袋版 大话2
+82 | 武潇 | 大话西游工作室 | 2 | g16 xy2 | 大话2口袋版 大话2
+127 | 陈俊雄 | 梦幻事业部 | 2 | g2 g1 | 梦幻西游 g1
+142 | 刘一丁 | 飞羽工作室 | 2 | xy3 xy3free | 大话3道具版 大话3
+143 | 赫然 | 飞羽工作室 | 3 | xy3 xy3time xy3free | 大话3时间版 大话3道具版 大话3
+144 | 姜楠 | 飞羽工作室 | 3 | xy3 xy3time xy3free | 大话3时间版 大话3道具版 大话3
+198 | 梁志兵 | 大话西游工作室 | 4 | demo xy2 g16 | 大话2免费版 测试游戏 大话2口袋版 大话2
+203 | 孙启帆 | 市场与渠道中心 | 2 | yx mag | 雨血 精灵大师
+218 | 李凯明 | 合作产品部（广州） | 3 | ninja2 yx wscs | 忍者必须死2 雨血 实况俱乐部
+245 | 甘露 | 天下事业部 | 2 | xy2 tx3 | 大话2免费版 天下3
+297 | 陈楚武 | G工作室 | 2 | demo mag | 测试游戏 精灵大师
+334 | 杨杰 |  | 3 | ninja2 demo wscs | 测试游戏 忍者必须死2 实况俱乐部
+auth_exception_detection End...
+
+MetaValidation END

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn-ux.gz.netease.com/svn"
+   name=""
+   revision="7233"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   url="https://svn-ux.gz.netease.com/svn/US/%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0/%E7%BB%9F%E4%B8%80%E5%AD%98%E5%82%A8%E5%B9%B3%E5%8F%B0/code/branch/yangwenfeng/gdas_build_20140808/WebContent/js/jquery-ui-1.9.2.custom/development-bundle/themes/base"
+   uuid="7f45c3a8-478f-45a5-9a51-4ba4e9d1a678"
+   committed-rev="159"
+   kind="dir"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="jquery-ui.css"
+   checksum="045a907e6dae8b46297161def959babb"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.accordion.css"
+   checksum="464c73e1209b11500236da8ec95fea7b"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.all.css"
+   checksum="f54c123f7776978a08783e9aaf66c1bf"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.autocomplete.css"
+   checksum="ff5c70f6854d6146c6e3d9771705d83b"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.base.css"
+   checksum="26f503359f4a6b43de55b649662062c3"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.button.css"
+   checksum="b883f3734acd0d8ba08c8fd58683be4b"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.core.css"
+   checksum="b58eeafdeab2d032ad24dc492edd024b"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.datepicker.css"
+   checksum="76d6851e1f559fa070ae7d1e507e6529"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.dialog.css"
+   checksum="7098e4e436e11674d4330a25a802cd01"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.menu.css"
+   checksum="eddcf68f70f45faebf1a7f13132be939"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.progressbar.css"
+   checksum="066ff155efe7761cc6472668436b9554"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.resizable.css"
+   checksum="d2827a31c9b41bd1f81c393466f963a0"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.selectable.css"
+   checksum="ee280a2f7f0ccaf53df5a9b4e20aac43"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.slider.css"
+   checksum="69d497ee606ad1f2e18f308b417a91f1"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.spinner.css"
+   checksum="cceeb24641f33ca71582d889a0ad01f9"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.tabs.css"
+   checksum="2111f8ae5674241d4cf241a977f72878"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.theme.css"
+   checksum="3feac24de3ca405e5e5cbb0d16000e7d"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="jquery.ui.tooltip.css"
+   checksum="d36d386c61a92b4f13b445dfb36a02e3"
+   last-author="gzsuxiaolin@CORP.NETEASE.COM"
+   committed-rev="159"
+   text-time="2013-11-27T07:51:00.779000Z"
+   kind="file"
+   committed-date="2013-11-27T07:51:00.779635Z"/>
+<entry
+   name="minified"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/org/gux/crawler=UTF-8
+encoding//src/org/gux/crawler/DeviceCrawler.java=UTF-8
+encoding//src/org/gux/crawler/DeviceDetailCrawlerJDbyMaker.java=UTF-8
+encoding//src/org/gux/crawler/DeviceDetailCrawlerPConlinebyMaker.java=UTF-8
+encoding//src/org/gux/crawler/DeviceDetailCrawlerPCpopbyMaker.java=UTF-8
+encoding//src/org/gux/crawler/DeviceDetailCrawlerPDAdbbyMaker.java=UTF-8
+encoding//src/org/gux/crawler/DeviceDetailCrawlerZolbyMaker.java=UTF-8
+encoding/<project>=UTF-8
